@@ -1,5 +1,5 @@
 const { defineConfig } = require('@vue/cli-service')
 module.exports = defineConfig({
   transpileDependencies: true,
-  base: 'https://test.bhyam.com/',
+  base: '/bhyam-test/',
 })
